@@ -8,7 +8,7 @@ I am a student at King Mongkut's Institute of Technology Ladkrabang (KMITL), stu
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [fitrinatthawut@gmail.com](mailto:fitrinatthawut@gmail.com)
-* 🧠  I'm learning Vue JS And Node JS
+* 🧠  I'm learning Typescript
 
 ### Skills
 
