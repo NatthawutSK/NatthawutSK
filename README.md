@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natthawut Sornkhiew</h1>
-<h3 align="center">A passionate in Full Stack Developer</h3>
+<h3 align="center">A passionate in Backend Developer & DevOps</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=natthawutsk&label=Profile%20views&color=0e75b6&style=flat" alt="natthawutsk" /> </p>
 
