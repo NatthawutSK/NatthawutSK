@@ -122,8 +122,6 @@ I build products end to end — from the API and database to the web and mobile 
 
 - **[EMVALAI](https://github.com/NatthawutSK/EMVALAI)** — service-oriented web app, TypeScript front end + [Java backend](https://github.com/NatthawutSK/EMVALAI-backend)
 - **[StackUnderflow](https://github.com/NatthawutSK/StackUnderflow)** — Q&A forum with guest / member / admin roles (Vue)
-- **[Kanban-Ri](https://github.com/NatthawutSK/kanban-ri)** — drag-and-drop Kanban board · [live demo](https://kanban-ri.vercel.app)
-- **[Auth-Next](https://github.com/NatthawutSK/auth-next)** — authentication flow in Next.js · [live demo](https://auth-next-rho.vercel.app)
 - **Gym Tracker** — personal Telegram bot + Android app that logs workouts to Google Sheets via Apps Script
 
 </td>
